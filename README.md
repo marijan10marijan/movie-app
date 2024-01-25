@@ -1,8 +1,9 @@
-# React + Vite
+# React + Vite App using Omdb API to get data about more than milions movies
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### What data about movie you get:
+1.Director
+2.Awards
+3.Actors
+4.Production Country
+5.Name
+6.Poster Image
